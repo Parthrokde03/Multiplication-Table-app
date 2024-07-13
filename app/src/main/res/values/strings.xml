@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiplicationApp</string>
+    <string name="enter_number">enter_number</string>
+    <string name="multipication">multipication</string>
+    <string name="Enternumber">Enter Number</string>
+    <string name="Enter_number">Enter Number</string>
+</resources>
